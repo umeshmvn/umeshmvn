@@ -1,21 +1,21 @@
-![MasterHead](https://rdblobprod.blob.core.windows.net/prod/custom/blog-post/header/5ef433f7b71cd.jpg)
+![MasterHead](https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e)
 <h1 align="center">Hi 👋, I'm Venkata Munagala</h1>
-<h3 align="center">A passionate Data Engineer from USA</h3>
+<h3 align="center">A passionate Software Engineer from USA</h3>
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:1400/1*g__jiesLRIfCRefVG69Pfw.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=umeshmvn&label=Profile%20views&color=0e75b6&style=flat" alt="umeshmvn" /> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **Revenue insights in hospitality domain**
+- 🔭 I’m currently working on **Software Engineer | Scalable Systems, AI, Cloud, & Distributed Computing**
 
-- 🌱 I’m currently learning **Hadoop, PySpark**
+- 🌱 I’m currently learning **AI, PySpark, and Scalable System Design**
 
-- 💬 Ask me about **Python, SQL, R Programming, ETL Processes, Data Pipelines, Hadoop, PySpark, Microsoft Excel, Looker, NumPy, Pandas, OpenCV, scikit-learn, PyTorch, CoreFlow, Keras, TensorFlow, Azure DevOps, Agile Methodology**
+- 💬 Ask me about **Software Development, System Design, Distributed Systems, Python, Java, SQL, Microservices, API Development, Cloud Computing (AWS, Azure, GCP), CI/CD, Kubernetes, Docker, and Agile Methodologies**
 
 - 📫 How to reach me **umeshmvn99@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1kSNzWgxprxwfgqOlTqRQ9ezry2LUuXDf/view?usp=drivesdk](https://drive.google.com/file/d/1kSNzWgxprxwfgqOlTqRQ9ezry2LUuXDf/view?usp=drivesdk)
+- 📄 Know about my experiences [https://www.linkedin.com/in/venkatamunagalaumesh/](https://www.linkedin.com/in/venkatamunagalaumesh/)
 
 - ⚡ Fun fact **I am Funny**
 
