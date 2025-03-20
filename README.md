@@ -13,8 +13,6 @@
 
 - 💬 Ask me about **Software Development, System Design, Distributed Systems, Python, Java, SQL, Microservices, API Development, Cloud Computing (AWS, Azure, GCP), CI/CD, Kubernetes, Docker, and Agile Methodologies**
 
-- 📫 How to reach me **umeshmvn99@gmail.com**
-
 - 📄 Know about my experiences [https://www.linkedin.com/in/venkatamunagalaumesh/](https://www.linkedin.com/in/venkatamunagalaumesh/)
 
 - ⚡ Fun fact **I am Funny**
